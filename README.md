@@ -9,3 +9,5 @@ Hitori (Alone  in Japanese) is a type  of logic puzzle. Board of the  game  is a
 - There must not be 4 black cells around a white one.
 
 The chosen programming language for this project is C++. It is the fastest computer language, which makes it great for AI programming projects that are time sensitive. It provides faster execution time and has a quicker response time.
+
+For more details about the project you can checkout this pdf -> [Check this!](https://github.com/kunaljain0212/AI-Project/blob/main/2019IMT052_AI_PROJECT.pdf)
